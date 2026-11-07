@@ -1,0 +1,29 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "<!-- omgithub:readme:start --> ## 🚀 Build, play, and remix with OMGithub",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3002",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 3002"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirlirolli8-maker/PlayGround.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/mirlirolli8-maker/PlayGround/issues"
+  },
+  "homepage": "https://github.com/mirlirolli8-maker/PlayGround#readme",
+  "dependencies": {
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
